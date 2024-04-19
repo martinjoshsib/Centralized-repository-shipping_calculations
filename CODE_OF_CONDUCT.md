@@ -112,6 +112,14 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
+### 5. Use of technology
+
+During working hours, the company only permits employees to use technology such as cellphones,
+social media or the internet for personal use while on break. When posting company-related content on social media,
+employees must express that they're posting on behalf of themselves and not the company. 
+The opinions they express should be respectful of the company. If an employee has a comment or concern about the company,
+it's best they bring it up to their manager or human resources rather than posting it online.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
